@@ -1,7 +1,9 @@
 # mazerandom
 Random maze generator with no guarantee of having solution.
 
-The main difference from [mazegenerator](https://github.com/optiklab/mazegenerator) is that here are NO Graphs are used underneath of the generation algorithm.
+The main differences from [mazegenerator](https://github.com/optiklab/mazegenerator) are:
+1. Here is NO Graph underneath of the generation algorithm.
+2. There is no particular fixed entry point or exit point.
 
 It's very simple, but in the same time, there is no guarantee to have a solution.
 
