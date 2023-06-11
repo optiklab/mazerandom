@@ -34,3 +34,7 @@
 .vs
 Debug
 *.vcxproj.user
+
+Release/
+/Release
+/x64
